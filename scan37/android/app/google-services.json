@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "569132188013",
+    "project_id": "facturation-ed328",
+    "storage_bucket": "facturation-ed328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569132188013:android:dc8e051e15d6926f219a64",
+        "android_client_info": {
+          "package_name": "com.scan37.app.scan37"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569132188013-cgbjmjuo9nqh5ff6hl630donnv35cnnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4qf0yjzakUlfdLPzvtYEMHYd94aWvMmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569132188013-cgbjmjuo9nqh5ff6hl630donnv35cnnf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "569132188013-8k8ud3qq41io9e6bvkv37ta31066ohm1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
